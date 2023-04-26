@@ -20,7 +20,7 @@
 #define CONVERT_UNSIGNED	2
 
 /**
- * struct parameters - parameters struct
+ * struct parameters - parameters struct-
  *
  * @unsign: flag if unsigned value
  * @plus_flag: on if plus_flag specified
@@ -30,7 +30,7 @@
  * @minus_flag: on if _flag specified
  * @width: field width specified
  * @precision: field precision specified
- * @h_modifier: on if h_modifier is specified
+ * @h_modifier: on if h_modifier is specified--
  * @l_modifier: on if l_modifier is specified
  *
  */
@@ -54,8 +54,8 @@ typedef struct parameters
 /**
  * struct specifier - Struct
  *
- * @specifier: format
- * @f: The function
+ * @specifier: format--
+ * @f: The function---
  */
 typedef struct specifier
 {
